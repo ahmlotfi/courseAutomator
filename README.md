@@ -1,0 +1,2 @@
+# courseAutomator
+MUN course automator
